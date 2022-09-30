@@ -6,9 +6,4 @@ Internet-Comments-Analysis
 Process
 ---
 
-> Raw Data from Google Maps
->
-> <img width=800px src="https://user-images.githubusercontent.com/69901137/193114676-d7ff8ac9-0ca1-4a19-8c54-cc259d11baeb.png">
-
-<img width="918" alt="image" src="https://user-images.githubusercontent.com/69901137/193115184-b6d2252a-ef0b-4ef4-90ac-1936ffb319f6.png">
-
+<img width="970" alt="Screen Shot 2022-09-30 at 11 33 26 PM" src="https://user-images.githubusercontent.com/69901137/193305554-adcd261a-2027-483d-95a7-708032d0988d.png">
